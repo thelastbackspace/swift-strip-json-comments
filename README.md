@@ -1,5 +1,7 @@
 # StripJSONComments
 
+[![CI](https://github.com/thelastbackspace/swift-strip-json-comments/actions/workflows/ci.yml/badge.svg)](https://github.com/thelastbackspace/swift-strip-json-comments/actions/workflows/ci.yml)
+
 Strip comments from JSON — turning JSONC (commented JSON) into
 something a strict parser accepts.
 
